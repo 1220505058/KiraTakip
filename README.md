@@ -26,4 +26,7 @@ Bina sınıfı, bina bilgilerini  ve içindeki dairelerin listesini içeriyor. B
 
 
 https://github.com/1220505058/KiraTakip/assets/115900039/3fac981c-6f02-4a0e-8ecd-c5dea8fbe5c9
+#Oluşturanlar
+Mete KAR 1220505053
 
+Sümeyye POLAT 1220505058
