@@ -26,12 +26,10 @@ Building
 
 The Building class represents a building, hosting a list of apartments within it. It allows adding apartments and displays details about the building and its apartments.
 
-![alt text](![alt text](![Ekran Görüntüsü (39)](https://github.com/1220505058/KiraTakip/assets/115900039/5e79791f-cafc-4780-a493-20492ca9539c)
-)
-![alt text](![Ekran Görüntüsü (40)](https://github.com/1220505058/KiraTakip/assets/115900039/06956d13-1a34-4cb7-b62d-d12320046b7b)
-)
+
+![Ekran Görüntüsü (39)](https://github.com/1220505058/KiraTakip/assets/115900039/3456e619-f8f5-4ab6-8a29-329e50031d75)
 
 
 
-
+![Ekran Görüntüsü (40)](https://github.com/1220505058/KiraTakip/assets/115900039/d9b6a0f6-8a02-4dc2-bd62-1a9d4362ea71)
 
