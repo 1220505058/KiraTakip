@@ -24,16 +24,13 @@ The Tenant class associates tenants with a landlord and displays their informati
 
 Building
 
-The Building class represents a building, hosting a list of apartments within it. It allows adding apartments and displays details about the building and its apartments.
+a building, hosting a list of apartments within it. It allows adding apartments and displays details about the building and its apartments.
+
+The Building class represents ![Ekran Görüntüsü (39)](https://github.com/1220505058/KiraTakip/assets/115900039/c706212f-24ac-4f3c-9daa-640b067198a9)
 
 
-![Ekran Görüntüsü (39)](https://github.com/1220505058/KiraTakip/assets/115900039/3456e619-f8f5-4ab6-8a29-329e50031d75)
+![Ekran Görüntüsü (40)](https://github.com/1220505058/KiraTakip/assets/115900039/4bfe483e-88d5-40ee-8a91-74c393ff3b55)
 
 
-https://github.com/1220505058/KiraTakip/assets/115900039/36dd2d4f-4855-41ba-9030-20cff31218ff
-
-
-
-
-![Ekran Görüntüsü (40)](https://github.com/1220505058/KiraTakip/assets/115900039/d9b6a0f6-8a02-4dc2-bd62-1a9d4362ea71)
+https://github.com/1220505058/KiraTakip/assets/115900039/3fac981c-6f02-4a0e-8ecd-c5dea8fbe5c9
 
