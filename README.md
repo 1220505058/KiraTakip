@@ -30,6 +30,10 @@ The Building class represents a building, hosting a list of apartments within it
 ![Ekran Görüntüsü (39)](https://github.com/1220505058/KiraTakip/assets/115900039/3456e619-f8f5-4ab6-8a29-329e50031d75)
 
 
+https://github.com/1220505058/KiraTakip/assets/115900039/36dd2d4f-4855-41ba-9030-20cff31218ff
+
+
+
 
 ![Ekran Görüntüsü (40)](https://github.com/1220505058/KiraTakip/assets/115900039/d9b6a0f6-8a02-4dc2-bd62-1a9d4362ea71)
 
